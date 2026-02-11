@@ -53,56 +53,58 @@ O dashboard foi organizado em **duas páginas principais**:
 
 ### 📈 Receita e Lucro por Mês
 - Evolução mensal das vendas  
-- Identificação de crescimento ao longo do período  
-- Meses com melhor desempenho: **junho e outubro**
+- Identificação de sazonalidade  
+- Comparação de desempenho ao longo do período selecionado  
 
 ### 📦 Quantidade Vendida por Mês
 - Acompanhamento do volume de vendas  
-- Relação entre aumento de volume e crescimento da receita  
+- Relação entre volume comercializado e geração de receita  
 
 ### 🌍 Lucro por País
 - Identificação dos mercados mais lucrativos  
-- Destaque para **Estados Unidos e Austrália**
+- Comparação de performance entre regiões  
 
 ### 💰 Margem de Lucro
-- **Lucro Total:** 40,2%  
-- **Custo Total:** 59,8%
+- Análise percentual entre lucro e custo  
+- Avaliação da eficiência operacional  
 
-### 📌 Indicadores Gerais (Visão Filtrada)
-- Receita Total: **R$ 7,08 Mi**  
-- Quantidade Vendida: **2,22 mil**  
-- Total de Clientes: **2,216 mil**
+### 📌 Indicadores Gerais
+- Receita Total  
+- Lucro Total  
+- Quantidade Vendida  
+- Total de Clientes  
+
+> ⚠️ Os valores são dinâmicos e variam conforme os filtros aplicados (ano, país e demais segmentações).
 
 ---
 
 # 📌 2️⃣ Análise de Clientes
 
 ### 💵 Receita e Lucro Consolidado
-- Receita Total: **R$ 29,36 Mi**  
-- Lucro Total: **R$ 12,08 Mi**
+- Visão agregada da performance financeira  
+- Comparação entre diferentes mercados  
 
 ### 🌎 Total de Clientes por País
-- Estados Unidos lidera em volume de clientes  
-- Austrália e Reino Unido como mercados relevantes  
+- Identificação dos países com maior concentração de clientes  
+- Análise de participação por região  
 
 ### 👤 Distribuição por Gênero
-- Masculino: **50,59%**  
-- Feminino: **49,41%**  
-- Base de clientes equilibrada  
+- Análise percentual da base de clientes  
+- Avaliação do equilíbrio do público consumidor  
 
 ### 🗺️ Distribuição Geográfica
-- Concentração de vendas na América do Norte e Europa  
+- Visualização da presença global da empresa  
+- Identificação de concentração de vendas por região  
 
 ---
 
 ## 💡 Principais Insights
 
-- O crescimento da receita acompanha o aumento da quantidade vendida.  
-- Estados Unidos representa o principal mercado em clientes e lucro.  
-- A margem de lucro de 40% indica boa rentabilidade.  
-- Accessories apresenta maior volume de vendas.  
-- A base de clientes é equilibrada entre gêneros.  
-- Há concentração de receita em mercados específicos, o que pode representar risco estratégico.  
+- O crescimento da receita acompanha o aumento da quantidade vendida ao longo do período analisado.  
+- Alguns mercados concentram maior volume de clientes e lucro, indicando regiões estratégicas.  
+- A margem de lucro demonstra equilíbrio entre custo e rentabilidade.  
+- Há diferença de desempenho entre categorias de produtos.  
+- A análise integrada permite identificar oportunidades de expansão e mitigação de riscos.  
 
 ---
 
@@ -115,14 +117,17 @@ O projeto resultou em um **dashboard executivo interativo no Power BI**, estrutu
 
 Incluindo:
 
-- Indicadores consolidados  
+- Indicadores financeiros dinâmicos  
 - Análise temporal  
 - Análise geográfica  
 - Análise por categoria  
-- Indicadores de margem  
-- Filtros por ano (2010–2014)  
+- Indicadores percentuais  
+- Filtros interativos por ano e segmentações  
 
 O foco do projeto foi transformar dados em visualizações claras, organizadas e orientadas à tomada de decisão.
 
+---
 
+## 🔗 Acesse o Dashboard
 
+[![Dashboard AdventureWorks](geral.png)](https://app.powerbi.com/view?r=eyJrIjoiY2U3ZGI3MDQtYjc4OC00YTRmLTgzZWItZGRmODE5NTg5MjZlIiwidCI6IjFjMzhiNzI5LWYyYzItNDdkNS05MmRmLTUyNWI5YTY1Y2RkOCJ9)
